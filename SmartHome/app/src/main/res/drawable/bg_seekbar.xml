@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is the line -->
+    <item >
+
+<shape android:shape="rectangle">
+    <solid android:color="#444444"></solid>
+    <corners android:radius="1dp" android:topLeftRadius="@dimen/bg_seekbar_round" android:topRightRadius="@dimen/bg_seekbar_round" android:bottomLeftRadius="@dimen/bg_seekbar_round" android:bottomRightRadius="@dimen/bg_seekbar_round"/>
+
+</shape>
+    </item>
+
+    </layer-list>

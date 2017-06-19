@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <com.example.plural.smarthome.ProgressCircleCustom
+        android:id="@+id/progress_circle"
+        android:layout_width="132dp"
+        android:layout_height="127dp"
+        android:layout_margin="20dp"
+        android:textSize="40sp"
+        android:textColor="#ffffff"
+        app:progressColor="#BBD452"
+        app:incompleteProgressColor="#595959"
+        app:strokeWidth="7dp"
+        android:clickable="true"
+        android:background="@drawable/tools_back_selector"
+        android:padding="10dp"
+        android:longClickable="true" />
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#464646</color>
+    <color name="colorPrimaryDark">#393939</color>
+    <color name="colorAccent">#4e4e4e</color>
+    <color name="progressBarColor1">#cb0404</color>
+    <color name="progressBarColor2">#248222</color>
+    <color name="progressBarColor3">#2a3dba</color>
+    <color name="back_tools">#00ffffff</color>
+    <color name="back_tools_pressed">#444444</color>
+    <color name="back_controls">#00494949</color>
+    <color name="back_controls_pressed">#00303030</color>
+</resources>

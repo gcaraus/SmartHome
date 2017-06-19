@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is the line -->
+    <item >
+
+<shape android:shape="oval">
+    <solid android:color="@color/back_controls_pressed"></solid>
+    <stroke android:color="#d04a82ad" android:width="5dp"/>
+</shape>
+    </item>
+
+    </layer-list>
